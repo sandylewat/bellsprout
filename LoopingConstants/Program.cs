@@ -15,6 +15,7 @@ namespace LoopingConstants
      * The query without replace is faster by +- 5 ms for 1 execution
      * For 20 times execution is faster by +- 34 ms
      * For 100 times execution is faster by +- 153 ms
+     * 
      * Array size is 6144
      **/
     class Program
@@ -35,7 +36,7 @@ namespace LoopingConstants
                             "everyone is slacking",
                             "but",
                             "i am not slacking",
-                            "paid shit"
+                            "paid like shit"
                               };
 
         static void Main(string[] args)
