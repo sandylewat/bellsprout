@@ -34,9 +34,7 @@ namespace LoopingConstants
                             "ae is slacking",
                             "sa is slacking",
                             "everyone is slacking",
-                            "but",
-                            "i am not slacking",
-                            "paid like shit"
+                            "i am not slacking"
                               };
 
         static void Main(string[] args)
